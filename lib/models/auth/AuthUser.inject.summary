@@ -1,0 +1,8 @@
+{
+  "asset": "asset:boilerplate/lib/models/auth/AuthUser.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}
